@@ -1,4 +1,4 @@
-# João Felipe Github Profile
+# Github Profile
 
 ## Programming languages
 
